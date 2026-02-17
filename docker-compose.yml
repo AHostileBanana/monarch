@@ -1,0 +1,21 @@
+#version: "1.28.5"
+# synology cloud sync doesn't detect local file writes to synced folder
+# instead, if we mount that same location as NFS, it will detect and sync.
+# this means we can't use the Docker UI, but instead must use a scheduled task to run docker-compose using this file
+# note that since we haven't otherwose modified the container the docker UI can still run fine, but won't trigger a cloud sync. 
+services:
+  monarch-export: 
+    image: monarch:0.2
+    #env_file:
+    #- .env
+    # entrypoint: 
+    volumes:
+      - monexp:/app/out
+      - /volume1/share/Records/Money/monarch_export:/app/env
+volumes:
+  monexp:
+    driver: local
+    driver_opts:
+      type: nfs
+      o: "addr=10.0.10.5,nolock,soft,rw"
+      device: ":/volume1/Dropbox/monarch_export"

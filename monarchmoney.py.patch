@@ -1,0 +1,12 @@
+--- monarchmoney.py	2026-01-16 12:37:43.302795580 -0500
++++ monarchmoney.py.mod	2026-01-16 12:37:38.882785212 -0500
+@@ -24,7 +24,8 @@
+ 
+ 
+ class MonarchMoneyEndpoints(object):
+-    BASE_URL = "https://api.monarchmoney.com"
++    # as of 1/15/26 this URL is giving cloudfare http 525 errors. BASE_URL = "https://api.monarchmoney.com"
++    BASE_URL = "https://api.monarch.com"    
+ 
+     @classmethod
+     def getLoginEndpoint(cls) -> str:

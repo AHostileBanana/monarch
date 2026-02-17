@@ -1,0 +1,3273 @@
+{
+  "allTransactions": {
+    "totalCount": 89,
+    "results": [
+      {
+        "id": "233070298539348815",
+        "amount": 5.99,
+        "pending": false,
+        "date": "2026-01-13",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-16T14:32:37.636728+00:00",
+        "updatedAt": "2026-01-17T15:36:57.066968+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 5,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232979102456468313",
+        "amount": -73.66,
+        "pending": false,
+        "date": "2026-01-13",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-15T14:23:06.273060+00:00",
+        "updatedAt": "2026-01-17T15:37:01.103758+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 3,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232978811779666018",
+        "amount": -49.1,
+        "pending": false,
+        "date": "2026-01-12",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-15T14:18:29.062542+00:00",
+        "updatedAt": "2026-01-15T14:18:29.062559+00:00",
+        "category": {
+          "id": "232525884431651149",
+          "name": "Dining Out",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232887889460056065",
+        "amount": -5.0,
+        "pending": false,
+        "date": "2026-01-12",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-14T14:13:18.855774+00:00",
+        "updatedAt": "2026-01-17T15:37:07.971356+00:00",
+        "category": {
+          "id": "232525884431651168",
+          "name": "Tools",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232887889460056064",
+        "amount": -10.07,
+        "pending": false,
+        "date": "2026-01-12",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x The Ordinary Hyaluronic Acid 2% + B5 (with Ceramides), Multi-Depth Hydration Serum for Plumper, Smoother Skin, 1 Fl Oz - $9.90\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-5554831-6505062",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-14T14:13:18.855712+00:00",
+        "updatedAt": "2026-01-17T15:53:26.880229+00:00",
+        "category": {
+          "id": "232705238380958636",
+          "name": "Personal Care",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232887889459008511",
+        "amount": -35.05,
+        "pending": false,
+        "date": "2026-01-12",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x HPA100 Replacement Filters for Honeywell Air Purifier,Compatible with HPA100,HPA094, HPA104, HPA105 HPA3100, HPA5100,4 True HEPA R Filter + 8 Activated Carbon Pre-Filter A,Part No. HRF-ARVP100 - $36.99\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-4204194-6935429",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-14T14:13:18.855581+00:00",
+        "updatedAt": "2026-01-17T16:00:59.802831+00:00",
+        "category": {
+          "id": "233166453649559887",
+          "name": "Supplies",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232809910510932586",
+        "amount": -27.99,
+        "pending": false,
+        "date": "2026-01-12",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-13T17:33:52.337777+00:00",
+        "updatedAt": "2026-01-17T15:37:21.252464+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 11,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232887883787260364",
+        "amount": 171.97,
+        "pending": false,
+        "date": "2026-01-11",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-14T14:13:13.371922+00:00",
+        "updatedAt": "2026-01-17T15:37:25.312727+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 5,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232797203312267269",
+        "amount": -3.87,
+        "pending": false,
+        "date": "2026-01-11",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-13T14:11:53.733472+00:00",
+        "updatedAt": "2026-01-17T16:16:52.997292+00:00",
+        "category": {
+          "id": "232705453694505394",
+          "name": "TV",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232797190006886449",
+        "amount": -20.55,
+        "pending": false,
+        "date": "2026-01-11",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-13T14:11:41.044015+00:00",
+        "updatedAt": "2026-01-17T15:37:30.556329+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 11,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232797190006886448",
+        "amount": -28.5,
+        "pending": false,
+        "date": "2026-01-11",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-13T14:11:41.043923+00:00",
+        "updatedAt": "2026-01-17T15:37:40.243835+00:00",
+        "category": {
+          "id": "232705354976317607",
+          "name": "Theater",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232797190006886447",
+        "amount": -6.18,
+        "pending": false,
+        "date": "2026-01-11",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-13T14:11:41.043788+00:00",
+        "updatedAt": "2026-01-17T15:37:45.053416+00:00",
+        "category": {
+          "id": "232525884431651149",
+          "name": "Dining Out",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232797190006886446",
+        "amount": -50.0,
+        "pending": false,
+        "date": "2026-01-11",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-13T14:11:41.043665+00:00",
+        "updatedAt": "2026-01-13T14:11:41.043682+00:00",
+        "category": {
+          "id": "232525884431651149",
+          "name": "Dining Out",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706519542649289",
+        "amount": -146.37,
+        "pending": false,
+        "date": "2026-01-11",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:10:30.951669+00:00",
+        "updatedAt": "2026-01-12T14:31:51.255522+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 5,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706519542649285",
+        "amount": -28.68,
+        "pending": false,
+        "date": "2026-01-11",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:10:30.951446+00:00",
+        "updatedAt": "2026-01-12T14:31:50.475824+00:00",
+        "category": {
+          "id": "232525884431651149",
+          "name": "Dining Out",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 3,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706519542649284",
+        "amount": -38.0,
+        "pending": false,
+        "date": "2026-01-11",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:10:30.951384+00:00",
+        "updatedAt": "2026-01-12T14:31:50.366627+00:00",
+        "category": {
+          "id": "232525884431651132",
+          "name": "Charity",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232615937840370482",
+        "amount": -12.5,
+        "pending": false,
+        "date": "2026-01-11",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-11T14:10:45.507764+00:00",
+        "updatedAt": "2026-01-17T15:38:14.854225+00:00",
+        "category": {
+          "id": "233165023367779023",
+          "name": "[C360 Priya Checking]",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 2,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232615935836541660",
+        "amount": 12.5,
+        "pending": false,
+        "date": "2026-01-11",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-11T14:10:43.655115+00:00",
+        "updatedAt": "2026-01-17T15:38:43.993532+00:00",
+        "category": {
+          "id": "232537442155090899",
+          "name": "[C360 Checking]",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 2,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233167649014666153",
+        "amount": -5.19,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:19:58.285379+00:00",
+        "updatedAt": "2026-01-17T16:19:58.285384+00:00",
+        "category": {
+          "id": "233166859647701902",
+          "name": "Sales Tax",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233167649014666152",
+        "amount": 11.29,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:19:58.285308+00:00",
+        "updatedAt": "2026-01-17T16:19:58.285312+00:00",
+        "category": {
+          "id": "232526637308170767",
+          "name": "Credit Card Rebate",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233167649014666151",
+        "amount": -47.09,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:19:58.285236+00:00",
+        "updatedAt": "2026-01-17T16:19:58.285241+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233167649014666150",
+        "amount": -17.99,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:19:58.285163+00:00",
+        "updatedAt": "2026-01-17T16:19:58.285168+00:00",
+        "category": {
+          "id": "232525884431651168",
+          "name": "Tools",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233167649014666149",
+        "amount": -15.56,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:19:58.285066+00:00",
+        "updatedAt": "2026-01-17T16:19:58.285073+00:00",
+        "category": {
+          "id": "232525884431651168",
+          "name": "Tools",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233167649014666148",
+        "amount": -5.99,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:19:58.284917+00:00",
+        "updatedAt": "2026-01-17T16:19:58.284937+00:00",
+        "category": {
+          "id": "232525884431651168",
+          "name": "Tools",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232797203312267267",
+        "amount": -56.81,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x Merino.tech Merino Wool Base Layer Women - 100% Merino Wool Heavyweight, Midweight, Lite Long Sleeve Thermal Shirt and Socks (Medium, Charcoal Grey 250) - $53.95\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-4636222-8825029",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-13T14:11:53.733355+00:00",
+        "updatedAt": "2026-01-17T15:54:55.675066+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232797203312267266",
+        "amount": -36.22,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x Arctic Hayes 333113 1 x Pen Kit with 3 Smoke Sticks, Test Slight Air-Movement, Gas Mandatory CO Spillage Checks of Boiler/Case Sills, Orange - $34.40\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-7769778-8788227",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-13T14:11:53.733227+00:00",
+        "updatedAt": "2026-01-17T15:55:56.775807+00:00",
+        "category": {
+          "id": "232704686663258378",
+          "name": "Tools",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752262",
+        "amount": -4.0,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.152899+00:00",
+        "updatedAt": "2026-01-12T14:23:29.152903+00:00",
+        "category": {
+          "id": "232705533484847911",
+          "name": "News",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752261",
+        "amount": -4.0,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.152844+00:00",
+        "updatedAt": "2026-01-12T14:32:16.278942+00:00",
+        "category": {
+          "id": "232705533484847911",
+          "name": "News",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752260",
+        "amount": -10.52,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x [50 Pack] UTI Test Strips with 50 Cups, 5-in-1 Urinary Tract Infection Test Kit for Women Men Kids - Accurate Detection of Leukocyte, Nitrite, pH, Protein & SG for Home Use - $9.99\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-6759686-8171455",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.152789+00:00",
+        "updatedAt": "2026-01-17T15:53:28.082991+00:00",
+        "category": {
+          "id": "232702511799194060",
+          "name": "Pharmacy",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752258",
+        "amount": -11.4,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.152678+00:00",
+        "updatedAt": "2026-01-17T16:20:28.252937+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752257",
+        "amount": -21.05,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x Rutland 500°F RTV High Heat Silicone Sealant Clear, USA-Made High Temperature Gasket Maker Adhesive - UV Stable, Oil Resistant & Non-Corrosive - $19.99\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=112-8004512-2700260",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.152624+00:00",
+        "updatedAt": "2026-01-17T16:09:04.125249+00:00",
+        "category": {
+          "id": "233166961586065691",
+          "name": "Maintenance",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752255",
+        "amount": -47.37,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x 48\"x24\" x1\" (Thick) Ceramic Fiber Blanket Fireproof Insulation Baffle Rated to 2400F, High-Temperature Resistance for Oven Stoves, Kilns,Forges - $44.99\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-6329022-4099423",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.152513+00:00",
+        "updatedAt": "2026-01-17T16:09:20.999812+00:00",
+        "category": {
+          "id": "233166961586065691",
+          "name": "Maintenance",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232615932829225079",
+        "amount": -109.57,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-11T14:10:40.755082+00:00",
+        "updatedAt": "2026-01-17T15:39:10.859875+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 11,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232615932829225078",
+        "amount": -20.13,
+        "pending": false,
+        "date": "2026-01-10",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-11T14:10:40.754947+00:00",
+        "updatedAt": "2026-01-17T15:39:12.740083+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 11,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232887883787260365",
+        "amount": 146.37,
+        "pending": false,
+        "date": "2026-01-09",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-14T14:13:13.372043+00:00",
+        "updatedAt": "2026-01-17T15:39:17.451693+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 5,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752270",
+        "amount": -10.0,
+        "pending": false,
+        "date": "2026-01-08",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153337+00:00",
+        "updatedAt": "2026-01-17T15:39:21.084529+00:00",
+        "category": {
+          "id": "232705503065658086",
+          "name": "Games",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752269",
+        "amount": -8.07,
+        "pending": false,
+        "date": "2026-01-08",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x Spice Profile | USDA Certified Organic Cumin Seeds (Whole) | Resealable 4oz Pouch | Best for Tempering, Cooking, Spice Blends & Seasonings | Organic Jeera - $7.99\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-0441530-5880263",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153282+00:00",
+        "updatedAt": "2026-01-17T15:53:27.684228+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752268",
+        "amount": -48.34,
+        "pending": false,
+        "date": "2026-01-08",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "2 x Lands' End Uniform Girls Sweatpant Classic Navy Kids X-Large - $22.95\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-4442164-9324266",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153228+00:00",
+        "updatedAt": "2026-01-17T15:53:27.598120+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752267",
+        "amount": -37.51,
+        "pending": false,
+        "date": "2026-01-08",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153173+00:00",
+        "updatedAt": "2026-01-17T16:21:20.083129+00:00",
+        "category": {
+          "id": "233166453649559887",
+          "name": "Supplies",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752256",
+        "amount": -14.9,
+        "pending": false,
+        "date": "2026-01-08",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x Epic the Musical Inspired Odysseus Greek Mythology Gift Epic the Musical Characters Crossbody Bag for Epic Fans Lovers (Keep Your Black) - $14.89\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-5624387-8026617",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.152569+00:00",
+        "updatedAt": "2026-01-17T15:53:27.511615+00:00",
+        "category": {
+          "id": "232525884431651133",
+          "name": "Gifts",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706397314339704",
+        "amount": -5.0,
+        "pending": false,
+        "date": "2026-01-08",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:08:34.383216+00:00",
+        "updatedAt": "2026-01-12T14:13:33.572833+00:00",
+        "category": {
+          "id": "232705533484847911",
+          "name": "News",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526490032526287",
+        "amount": -50.0,
+        "pending": false,
+        "date": "2026-01-08",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:29:01.430097+00:00",
+        "updatedAt": "2026-01-17T15:39:29.256330+00:00",
+        "category": {
+          "id": "232525884431651146",
+          "name": "Net",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752266",
+        "amount": -11.41,
+        "pending": false,
+        "date": "2026-01-07",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x SCENTORINI Scented Sachets for Drawers and Closets, Pure Cotton Scent 14 Pack, Long-Lasting Sachets Bags Wardrobe Freshener, for Drawers, Closets, Cars - $11.99\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-3543840-8821800",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153119+00:00",
+        "updatedAt": "2026-01-17T16:01:57.028503+00:00",
+        "category": {
+          "id": "232705221460087722",
+          "name": "Supplies",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526490032526289",
+        "amount": -5118.77,
+        "pending": false,
+        "date": "2026-01-07",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:29:01.430270+00:00",
+        "updatedAt": "2026-01-10T14:29:01.430275+00:00",
+        "category": {
+          "id": "232525884431651186",
+          "name": "Credit Card Payment",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 2,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526490032526288",
+        "amount": -734.05,
+        "pending": false,
+        "date": "2026-01-07",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:29:01.430211+00:00",
+        "updatedAt": "2026-01-10T14:29:01.430216+00:00",
+        "category": {
+          "id": "232525884431651185",
+          "name": "Transfer",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 2,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526460289667529",
+        "amount": -20.0,
+        "pending": false,
+        "date": "2026-01-07",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:28:33.066313+00:00",
+        "updatedAt": "2026-01-17T15:39:34.243326+00:00",
+        "category": {
+          "id": "232705396401361074",
+          "name": "Backpacking",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526460289667528",
+        "amount": -17.99,
+        "pending": false,
+        "date": "2026-01-07",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:28:33.066254+00:00",
+        "updatedAt": "2026-01-10T14:32:51.457554+00:00",
+        "category": {
+          "id": "232525884431651152",
+          "name": "Ballet",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526460289667527",
+        "amount": 734.05,
+        "pending": false,
+        "date": "2026-01-07",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:28:33.066137+00:00",
+        "updatedAt": "2026-01-10T14:28:33.066153+00:00",
+        "category": {
+          "id": "232525884431651186",
+          "name": "Credit Card Payment",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 2,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752273",
+        "amount": 5118.77,
+        "pending": false,
+        "date": "2026-01-06",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153503+00:00",
+        "updatedAt": "2026-01-17T15:45:17.161391+00:00",
+        "category": {
+          "id": "232537442155090899",
+          "name": "[C360 Checking]",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 2,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526460289667531",
+        "amount": -23.21,
+        "pending": false,
+        "date": "2026-01-06",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:28:33.066422+00:00",
+        "updatedAt": "2026-01-17T15:42:37.157083+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 11,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526460289667530",
+        "amount": -16.23,
+        "pending": false,
+        "date": "2026-01-06",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:28:33.066368+00:00",
+        "updatedAt": "2026-01-17T15:42:39.109221+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 11,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233166878773727752",
+        "amount": -5.43,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "2 x HENGDA KITE Professional Outdoor Kite Line Winder Winding Reel Grip Wheel with 650 Feet (60LBS) Flying Line String Flying Tools with Lock for Kids and Adults - $7.99\n\n1 x qiipii Precision S2 Steel 4mm screwdriver bit set 38pcs - Phillips 000 00 and more, Flathead, Torx 2 3 4 5 6, Torx Security, Pentalobem, Hex, Tri-Wing, Triangle, U-shaped Bits in Case Collection - $9.99\n\n1 x 6PCS Spring Snap Hooks Carabiner- 304 Premium Stainless Steel Heavy Duty Carabiner Clips Assorted Sizes (2, 2.36, 3.15 inch) for Camping, Fishing, Hiking, Traveling, Backpack, Keychain; Silver - $7.99\n\n1 x PerkHomy Bungee Shock Cord Rope Marine Grade Heavy Duty Polyester Bungie Elastic Stretch String for Kayak Strap Tarp Tie Down Canopy Boating Camping Tent Crafting Patio （Orange-1/8 x 50'） - $9.99\n\n1 x Feyejade Hanging Jewelry Organizer and Storage, 5-Tier White Earring Necklace Holder Jewelry Display Organizer Stand Rack, Wall Mounted for Earrings Necklaces Bracelets and Rings, White - $19.99\n\n1 x Carago Carabiner Clips with Screw Gate, 10 Pack Carabiners Hiking Clips with 7.5mm Diameter Aluminum Rod (10 Color (10 Pack)) - $8.99\n\n1 x Amber Home 30 Pack Wooden Coat Hangers, Natural Wood Suit Hangers with Non Slip Pant Bar, Clothes Hangers for Shirts, Jackets, Dress, Pant (Natural, 30) - $29.59\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=112-9517652-8793840",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:07:43.725860+00:00",
+        "updatedAt": "2026-01-17T16:07:43.725865+00:00",
+        "category": {
+          "id": "233166859647701902",
+          "name": "Sales Tax",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233166878773727751",
+        "amount": -9.99,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "2 x HENGDA KITE Professional Outdoor Kite Line Winder Winding Reel Grip Wheel with 650 Feet (60LBS) Flying Line String Flying Tools with Lock for Kids and Adults - $7.99\n\n1 x qiipii Precision S2 Steel 4mm screwdriver bit set 38pcs - Phillips 000 00 and more, Flathead, Torx 2 3 4 5 6, Torx Security, Pentalobem, Hex, Tri-Wing, Triangle, U-shaped Bits in Case Collection - $9.99\n\n1 x 6PCS Spring Snap Hooks Carabiner- 304 Premium Stainless Steel Heavy Duty Carabiner Clips Assorted Sizes (2, 2.36, 3.15 inch) for Camping, Fishing, Hiking, Traveling, Backpack, Keychain; Silver - $7.99\n\n1 x PerkHomy Bungee Shock Cord Rope Marine Grade Heavy Duty Polyester Bungie Elastic Stretch String for Kayak Strap Tarp Tie Down Canopy Boating Camping Tent Crafting Patio （Orange-1/8 x 50'） - $9.99\n\n1 x Feyejade Hanging Jewelry Organizer and Storage, 5-Tier White Earring Necklace Holder Jewelry Display Organizer Stand Rack, Wall Mounted for Earrings Necklaces Bracelets and Rings, White - $19.99\n\n1 x Carago Carabiner Clips with Screw Gate, 10 Pack Carabiners Hiking Clips with 7.5mm Diameter Aluminum Rod (10 Color (10 Pack)) - $8.99\n\n1 x Amber Home 30 Pack Wooden Coat Hangers, Natural Wood Suit Hangers with Non Slip Pant Bar, Clothes Hangers for Shirts, Jackets, Dress, Pant (Natural, 30) - $29.59\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=112-9517652-8793840",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:07:43.725788+00:00",
+        "updatedAt": "2026-01-17T16:07:43.725793+00:00",
+        "category": {
+          "id": "232525884431651168",
+          "name": "Tools",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233166878773727750",
+        "amount": 10.0,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "2 x HENGDA KITE Professional Outdoor Kite Line Winder Winding Reel Grip Wheel with 650 Feet (60LBS) Flying Line String Flying Tools with Lock for Kids and Adults - $7.99\n\n1 x qiipii Precision S2 Steel 4mm screwdriver bit set 38pcs - Phillips 000 00 and more, Flathead, Torx 2 3 4 5 6, Torx Security, Pentalobem, Hex, Tri-Wing, Triangle, U-shaped Bits in Case Collection - $9.99\n\n1 x 6PCS Spring Snap Hooks Carabiner- 304 Premium Stainless Steel Heavy Duty Carabiner Clips Assorted Sizes (2, 2.36, 3.15 inch) for Camping, Fishing, Hiking, Traveling, Backpack, Keychain; Silver - $7.99\n\n1 x PerkHomy Bungee Shock Cord Rope Marine Grade Heavy Duty Polyester Bungie Elastic Stretch String for Kayak Strap Tarp Tie Down Canopy Boating Camping Tent Crafting Patio （Orange-1/8 x 50'） - $9.99\n\n1 x Feyejade Hanging Jewelry Organizer and Storage, 5-Tier White Earring Necklace Holder Jewelry Display Organizer Stand Rack, Wall Mounted for Earrings Necklaces Bracelets and Rings, White - $19.99\n\n1 x Carago Carabiner Clips with Screw Gate, 10 Pack Carabiners Hiking Clips with 7.5mm Diameter Aluminum Rod (10 Color (10 Pack)) - $8.99\n\n1 x Amber Home 30 Pack Wooden Coat Hangers, Natural Wood Suit Hangers with Non Slip Pant Bar, Clothes Hangers for Shirts, Jackets, Dress, Pant (Natural, 30) - $29.59\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=112-9517652-8793840",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:07:43.725715+00:00",
+        "updatedAt": "2026-01-17T16:07:43.725720+00:00",
+        "category": {
+          "id": "232526637308170767",
+          "name": "Credit Card Rebate",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233166878773727749",
+        "amount": -19.99,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "2 x HENGDA KITE Professional Outdoor Kite Line Winder Winding Reel Grip Wheel with 650 Feet (60LBS) Flying Line String Flying Tools with Lock for Kids and Adults - $7.99\n\n1 x qiipii Precision S2 Steel 4mm screwdriver bit set 38pcs - Phillips 000 00 and more, Flathead, Torx 2 3 4 5 6, Torx Security, Pentalobem, Hex, Tri-Wing, Triangle, U-shaped Bits in Case Collection - $9.99\n\n1 x 6PCS Spring Snap Hooks Carabiner- 304 Premium Stainless Steel Heavy Duty Carabiner Clips Assorted Sizes (2, 2.36, 3.15 inch) for Camping, Fishing, Hiking, Traveling, Backpack, Keychain; Silver - $7.99\n\n1 x PerkHomy Bungee Shock Cord Rope Marine Grade Heavy Duty Polyester Bungie Elastic Stretch String for Kayak Strap Tarp Tie Down Canopy Boating Camping Tent Crafting Patio （Orange-1/8 x 50'） - $9.99\n\n1 x Feyejade Hanging Jewelry Organizer and Storage, 5-Tier White Earring Necklace Holder Jewelry Display Organizer Stand Rack, Wall Mounted for Earrings Necklaces Bracelets and Rings, White - $19.99\n\n1 x Carago Carabiner Clips with Screw Gate, 10 Pack Carabiners Hiking Clips with 7.5mm Diameter Aluminum Rod (10 Color (10 Pack)) - $8.99\n\n1 x Amber Home 30 Pack Wooden Coat Hangers, Natural Wood Suit Hangers with Non Slip Pant Bar, Clothes Hangers for Shirts, Jackets, Dress, Pant (Natural, 30) - $29.59\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=112-9517652-8793840",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:07:43.725641+00:00",
+        "updatedAt": "2026-01-17T16:07:43.725646+00:00",
+        "category": {
+          "id": "232525884431651168",
+          "name": "Tools",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233166878773727748",
+        "amount": -7.99,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "2 x HENGDA KITE Professional Outdoor Kite Line Winder Winding Reel Grip Wheel with 650 Feet (60LBS) Flying Line String Flying Tools with Lock for Kids and Adults - $7.99\n\n1 x qiipii Precision S2 Steel 4mm screwdriver bit set 38pcs - Phillips 000 00 and more, Flathead, Torx 2 3 4 5 6, Torx Security, Pentalobem, Hex, Tri-Wing, Triangle, U-shaped Bits in Case Collection - $9.99\n\n1 x 6PCS Spring Snap Hooks Carabiner- 304 Premium Stainless Steel Heavy Duty Carabiner Clips Assorted Sizes (2, 2.36, 3.15 inch) for Camping, Fishing, Hiking, Traveling, Backpack, Keychain; Silver - $7.99\n\n1 x PerkHomy Bungee Shock Cord Rope Marine Grade Heavy Duty Polyester Bungie Elastic Stretch String for Kayak Strap Tarp Tie Down Canopy Boating Camping Tent Crafting Patio （Orange-1/8 x 50'） - $9.99\n\n1 x Feyejade Hanging Jewelry Organizer and Storage, 5-Tier White Earring Necklace Holder Jewelry Display Organizer Stand Rack, Wall Mounted for Earrings Necklaces Bracelets and Rings, White - $19.99\n\n1 x Carago Carabiner Clips with Screw Gate, 10 Pack Carabiners Hiking Clips with 7.5mm Diameter Aluminum Rod (10 Color (10 Pack)) - $8.99\n\n1 x Amber Home 30 Pack Wooden Coat Hangers, Natural Wood Suit Hangers with Non Slip Pant Bar, Clothes Hangers for Shirts, Jackets, Dress, Pant (Natural, 30) - $29.59\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=112-9517652-8793840",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:07:43.725568+00:00",
+        "updatedAt": "2026-01-17T16:07:43.725573+00:00",
+        "category": {
+          "id": "232705396401361074",
+          "name": "Backpacking",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233166878773727747",
+        "amount": -29.59,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "2 x HENGDA KITE Professional Outdoor Kite Line Winder Winding Reel Grip Wheel with 650 Feet (60LBS) Flying Line String Flying Tools with Lock for Kids and Adults - $7.99\n\n1 x qiipii Precision S2 Steel 4mm screwdriver bit set 38pcs - Phillips 000 00 and more, Flathead, Torx 2 3 4 5 6, Torx Security, Pentalobem, Hex, Tri-Wing, Triangle, U-shaped Bits in Case Collection - $9.99\n\n1 x 6PCS Spring Snap Hooks Carabiner- 304 Premium Stainless Steel Heavy Duty Carabiner Clips Assorted Sizes (2, 2.36, 3.15 inch) for Camping, Fishing, Hiking, Traveling, Backpack, Keychain; Silver - $7.99\n\n1 x PerkHomy Bungee Shock Cord Rope Marine Grade Heavy Duty Polyester Bungie Elastic Stretch String for Kayak Strap Tarp Tie Down Canopy Boating Camping Tent Crafting Patio （Orange-1/8 x 50'） - $9.99\n\n1 x Feyejade Hanging Jewelry Organizer and Storage, 5-Tier White Earring Necklace Holder Jewelry Display Organizer Stand Rack, Wall Mounted for Earrings Necklaces Bracelets and Rings, White - $19.99\n\n1 x Carago Carabiner Clips with Screw Gate, 10 Pack Carabiners Hiking Clips with 7.5mm Diameter Aluminum Rod (10 Color (10 Pack)) - $8.99\n\n1 x Amber Home 30 Pack Wooden Coat Hangers, Natural Wood Suit Hangers with Non Slip Pant Bar, Clothes Hangers for Shirts, Jackets, Dress, Pant (Natural, 30) - $29.59\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=112-9517652-8793840",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:07:43.725495+00:00",
+        "updatedAt": "2026-01-17T16:07:43.725500+00:00",
+        "category": {
+          "id": "232525884431651168",
+          "name": "Tools",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233166878773727746",
+        "amount": -8.99,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "2 x HENGDA KITE Professional Outdoor Kite Line Winder Winding Reel Grip Wheel with 650 Feet (60LBS) Flying Line String Flying Tools with Lock for Kids and Adults - $7.99\n\n1 x qiipii Precision S2 Steel 4mm screwdriver bit set 38pcs - Phillips 000 00 and more, Flathead, Torx 2 3 4 5 6, Torx Security, Pentalobem, Hex, Tri-Wing, Triangle, U-shaped Bits in Case Collection - $9.99\n\n1 x 6PCS Spring Snap Hooks Carabiner- 304 Premium Stainless Steel Heavy Duty Carabiner Clips Assorted Sizes (2, 2.36, 3.15 inch) for Camping, Fishing, Hiking, Traveling, Backpack, Keychain; Silver - $7.99\n\n1 x PerkHomy Bungee Shock Cord Rope Marine Grade Heavy Duty Polyester Bungie Elastic Stretch String for Kayak Strap Tarp Tie Down Canopy Boating Camping Tent Crafting Patio （Orange-1/8 x 50'） - $9.99\n\n1 x Feyejade Hanging Jewelry Organizer and Storage, 5-Tier White Earring Necklace Holder Jewelry Display Organizer Stand Rack, Wall Mounted for Earrings Necklaces Bracelets and Rings, White - $19.99\n\n1 x Carago Carabiner Clips with Screw Gate, 10 Pack Carabiners Hiking Clips with 7.5mm Diameter Aluminum Rod (10 Color (10 Pack)) - $8.99\n\n1 x Amber Home 30 Pack Wooden Coat Hangers, Natural Wood Suit Hangers with Non Slip Pant Bar, Clothes Hangers for Shirts, Jackets, Dress, Pant (Natural, 30) - $29.59\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=112-9517652-8793840",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:07:43.725421+00:00",
+        "updatedAt": "2026-01-17T16:07:43.725426+00:00",
+        "category": {
+          "id": "232705396401361074",
+          "name": "Backpacking",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233166878773727745",
+        "amount": -9.99,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "2 x HENGDA KITE Professional Outdoor Kite Line Winder Winding Reel Grip Wheel with 650 Feet (60LBS) Flying Line String Flying Tools with Lock for Kids and Adults - $7.99\n\n1 x qiipii Precision S2 Steel 4mm screwdriver bit set 38pcs - Phillips 000 00 and more, Flathead, Torx 2 3 4 5 6, Torx Security, Pentalobem, Hex, Tri-Wing, Triangle, U-shaped Bits in Case Collection - $9.99\n\n1 x 6PCS Spring Snap Hooks Carabiner- 304 Premium Stainless Steel Heavy Duty Carabiner Clips Assorted Sizes (2, 2.36, 3.15 inch) for Camping, Fishing, Hiking, Traveling, Backpack, Keychain; Silver - $7.99\n\n1 x PerkHomy Bungee Shock Cord Rope Marine Grade Heavy Duty Polyester Bungie Elastic Stretch String for Kayak Strap Tarp Tie Down Canopy Boating Camping Tent Crafting Patio （Orange-1/8 x 50'） - $9.99\n\n1 x Feyejade Hanging Jewelry Organizer and Storage, 5-Tier White Earring Necklace Holder Jewelry Display Organizer Stand Rack, Wall Mounted for Earrings Necklaces Bracelets and Rings, White - $19.99\n\n1 x Carago Carabiner Clips with Screw Gate, 10 Pack Carabiners Hiking Clips with 7.5mm Diameter Aluminum Rod (10 Color (10 Pack)) - $8.99\n\n1 x Amber Home 30 Pack Wooden Coat Hangers, Natural Wood Suit Hangers with Non Slip Pant Bar, Clothes Hangers for Shirts, Jackets, Dress, Pant (Natural, 30) - $29.59\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=112-9517652-8793840",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:07:43.725344+00:00",
+        "updatedAt": "2026-01-17T16:07:43.725349+00:00",
+        "category": {
+          "id": "232705396401361074",
+          "name": "Backpacking",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "233166878773727744",
+        "amount": -15.98,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "2 x HENGDA KITE Professional Outdoor Kite Line Winder Winding Reel Grip Wheel with 650 Feet (60LBS) Flying Line String Flying Tools with Lock for Kids and Adults - $7.99\n\n1 x qiipii Precision S2 Steel 4mm screwdriver bit set 38pcs - Phillips 000 00 and more, Flathead, Torx 2 3 4 5 6, Torx Security, Pentalobem, Hex, Tri-Wing, Triangle, U-shaped Bits in Case Collection - $9.99\n\n1 x 6PCS Spring Snap Hooks Carabiner- 304 Premium Stainless Steel Heavy Duty Carabiner Clips Assorted Sizes (2, 2.36, 3.15 inch) for Camping, Fishing, Hiking, Traveling, Backpack, Keychain; Silver - $7.99\n\n1 x PerkHomy Bungee Shock Cord Rope Marine Grade Heavy Duty Polyester Bungie Elastic Stretch String for Kayak Strap Tarp Tie Down Canopy Boating Camping Tent Crafting Patio （Orange-1/8 x 50'） - $9.99\n\n1 x Feyejade Hanging Jewelry Organizer and Storage, 5-Tier White Earring Necklace Holder Jewelry Display Organizer Stand Rack, Wall Mounted for Earrings Necklaces Bracelets and Rings, White - $19.99\n\n1 x Carago Carabiner Clips with Screw Gate, 10 Pack Carabiners Hiking Clips with 7.5mm Diameter Aluminum Rod (10 Color (10 Pack)) - $8.99\n\n1 x Amber Home 30 Pack Wooden Coat Hangers, Natural Wood Suit Hangers with Non Slip Pant Bar, Clothes Hangers for Shirts, Jackets, Dress, Pant (Natural, 30) - $29.59\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=112-9517652-8793840",
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": true,
+        "createdAt": "2026-01-17T16:07:43.725217+00:00",
+        "updatedAt": "2026-01-17T16:07:43.725234+00:00",
+        "category": {
+          "id": "232704686663258378",
+          "name": "Tools",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752272",
+        "amount": -20.24,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x Laptop Desk Table, SAIJI Adjustable Laptop Stand, Portable Lap Desks with Foldable Legs, Notebook Standing Breakfast Tray Reading Desk for Sofa Couch Bed Floor (Black,Medium Size) - $29.99\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-2561132-5937054",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153449+00:00",
+        "updatedAt": "2026-01-17T16:10:47.770019+00:00",
+        "category": {
+          "id": "232533750517453030",
+          "name": "Job Expense",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706519542649293",
+        "amount": -50.0,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:10:30.951888+00:00",
+        "updatedAt": "2026-01-17T16:14:59.800671+00:00",
+        "category": {
+          "id": "232705410728055086",
+          "name": "Church",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706397314339705",
+        "amount": -0.8,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:08:34.383345+00:00",
+        "updatedAt": "2026-01-17T15:42:44.886402+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 11,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526490032526291",
+        "amount": -3031.67,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:29:01.430382+00:00",
+        "updatedAt": "2026-01-17T15:41:52.614887+00:00",
+        "category": {
+          "id": "233165251718271939",
+          "name": "[Credit Card 1]",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 2,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526490032526290",
+        "amount": -300.0,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:29:01.430327+00:00",
+        "updatedAt": "2026-01-10T14:29:01.430332+00:00",
+        "category": {
+          "id": "232525884431651170",
+          "name": "Cash",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526460289667534",
+        "amount": -12.64,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:28:33.066587+00:00",
+        "updatedAt": "2026-01-10T14:32:53.069752+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 11,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526460289667533",
+        "amount": -9.71,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:28:33.066533+00:00",
+        "updatedAt": "2026-01-10T14:32:52.894618+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 11,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526460289667532",
+        "amount": -8.95,
+        "pending": false,
+        "date": "2026-01-05",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:28:33.066478+00:00",
+        "updatedAt": "2026-01-10T14:32:52.766183+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 11,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706519542649295",
+        "amount": 20.05,
+        "pending": false,
+        "date": "2026-01-04",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:10:30.951996+00:00",
+        "updatedAt": "2026-01-12T14:10:30.952000+00:00",
+        "category": {
+          "id": "232525884431651166",
+          "name": "Fitness",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706519542649294",
+        "amount": -41.26,
+        "pending": false,
+        "date": "2026-01-04",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:10:30.951942+00:00",
+        "updatedAt": "2026-01-12T14:31:51.705621+00:00",
+        "category": {
+          "id": "232525884431651149",
+          "name": "Dining Out",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706397314339707",
+        "amount": -45.38,
+        "pending": false,
+        "date": "2026-01-04",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:08:34.383474+00:00",
+        "updatedAt": "2026-01-17T15:43:16.315106+00:00",
+        "category": {
+          "id": "232525884431651133",
+          "name": "Gifts",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706397314339706",
+        "amount": -37.0,
+        "pending": false,
+        "date": "2026-01-04",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:08:34.383418+00:00",
+        "updatedAt": "2026-01-17T16:15:27.789160+00:00",
+        "category": {
+          "id": "233167364904046758",
+          "name": "Firewood",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526525234270820",
+        "amount": 12.5,
+        "pending": false,
+        "date": "2026-01-04",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:29:35.001003+00:00",
+        "updatedAt": "2026-01-17T15:45:17.161391+00:00",
+        "category": {
+          "id": "232537442155090899",
+          "name": "[C360 Checking]",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 2,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526490032526292",
+        "amount": -12.5,
+        "pending": false,
+        "date": "2026-01-04",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:29:01.430438+00:00",
+        "updatedAt": "2026-01-17T15:44:14.521608+00:00",
+        "category": {
+          "id": "233165023367779023",
+          "name": "[C360 Priya Checking]",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 2,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752278",
+        "amount": -9.99,
+        "pending": false,
+        "date": "2026-01-03",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153774+00:00",
+        "updatedAt": "2026-01-12T14:23:29.153779+00:00",
+        "category": {
+          "id": "232705425474179498",
+          "name": "Books",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752277",
+        "amount": -22.98,
+        "pending": false,
+        "date": "2026-01-03",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x CeraVe Moisturizing Cream with Salicylic Acid, Exfoliating Body Cream with Lactic & Hyaluronic Acid, Niacinamide, and Ceramides, Fragrance Free & Allergy Tested, 12 Ounce - $21.82\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-0453542-2329053",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153719+00:00",
+        "updatedAt": "2026-01-17T16:11:10.365534+00:00",
+        "category": {
+          "id": "232705238380958636",
+          "name": "Personal Care",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752276",
+        "amount": -2.99,
+        "pending": false,
+        "date": "2026-01-03",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153665+00:00",
+        "updatedAt": "2026-01-17T16:08:08.989147+00:00",
+        "category": {
+          "id": "232705453694505394",
+          "name": "TV",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752275",
+        "amount": -70.85,
+        "pending": false,
+        "date": "2026-01-03",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x LBRO2M 100% Cotton Sheets Set Deep Pocket Up to 18\"-24\", 1000 Thread Count Queen Size 4 Pcs Bed Sheet Sets Soft Comfortable Bedding All Season (Queen, Gray) - $89.99\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=113-1520560-3397044",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153611+00:00",
+        "updatedAt": "2026-01-17T15:53:28.780905+00:00",
+        "category": {
+          "id": "232525884431651158",
+          "name": "Furnishings",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752274",
+        "amount": -77.24,
+        "pending": false,
+        "date": "2026-01-03",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": "1 x woolcano Women's 100% Merino Wool Base Layer Sets - Midweight Thermal Underwear Gifts Pack with Wool Beanie Black X-Small - $79.57\n\nhttps://www.amazon.com/gp/your-account/order-details?orderID=114-1365399-0035418",
+        "isRecurring": false,
+        "reviewStatus": "reviewed",
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153556+00:00",
+        "updatedAt": "2026-01-17T15:53:28.877488+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 38,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [
+          {
+            "id": "233165980184990006",
+            "name": "Retail Sync",
+            "color": "#f86713",
+            "order": 5,
+            "__typename": "TransactionTag"
+          }
+        ],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526490032526293",
+        "amount": 50.0,
+        "pending": false,
+        "date": "2026-01-03",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:29:01.430492+00:00",
+        "updatedAt": "2026-01-12T13:02:09.579401+00:00",
+        "category": {
+          "id": "232525884431651128",
+          "name": "Paychecks",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752279",
+        "amount": -24.99,
+        "pending": false,
+        "date": "2026-01-02",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153828+00:00",
+        "updatedAt": "2026-01-12T14:23:29.153832+00:00",
+        "category": {
+          "id": "232705453694505394",
+          "name": "TV",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706519542649297",
+        "amount": -75.0,
+        "pending": false,
+        "date": "2026-01-02",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:10:30.952105+00:00",
+        "updatedAt": "2026-01-12T14:31:51.854558+00:00",
+        "category": {
+          "id": "232525884431651154",
+          "name": "Pets",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706519542649296",
+        "amount": 3031.67,
+        "pending": false,
+        "date": "2026-01-02",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:10:30.952050+00:00",
+        "updatedAt": "2026-01-17T15:44:48.572179+00:00",
+        "category": {
+          "id": "232537442155090899",
+          "name": "[C360 Checking]",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 2,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526490032526294",
+        "amount": -735.19,
+        "pending": false,
+        "date": "2026-01-02",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:29:01.430546+00:00",
+        "updatedAt": "2026-01-10T14:36:25.832604+00:00",
+        "category": {
+          "id": "232526955583492240",
+          "name": "Tuition",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232526460289667535",
+        "amount": -12.68,
+        "pending": false,
+        "date": "2026-01-02",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-10T14:28:33.066641+00:00",
+        "updatedAt": "2026-01-10T14:32:53.273686+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 11,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232707335463752280",
+        "amount": -88.64,
+        "pending": false,
+        "date": "2026-01-01",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:23:29.153882+00:00",
+        "updatedAt": "2026-01-17T16:16:08.069496+00:00",
+        "category": {
+          "id": "232525884431651148",
+          "name": "Groceries",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706519542649299",
+        "amount": -177.96,
+        "pending": false,
+        "date": "2026-01-01",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:10:30.952214+00:00",
+        "updatedAt": "2026-01-12T14:31:52.084792+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 5,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232706519542649298",
+        "amount": -126.32,
+        "pending": false,
+        "date": "2026-01-01",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:10:30.952159+00:00",
+        "updatedAt": "2026-01-12T14:31:51.957720+00:00",
+        "category": {
+          "id": "232525884431651157",
+          "name": "Clothing",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 3,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      },
+      {
+        "id": "232705929728086727",
+        "amount": 171.97,
+        "pending": false,
+        "date": "2026-01-01",
+        "hideFromReports": false,
+        "plaidName": "sample plaid name",
+        "notes": null,
+        "isRecurring": false,
+        "reviewStatus": null,
+        "needsReview": false,
+        "attachments": [],
+        "isSplitTransaction": false,
+        "createdAt": "2026-01-12T14:01:08.460675+00:00",
+        "updatedAt": "2026-01-12T14:01:08.460688+00:00",
+        "category": {
+          "id": "232525884431651129",
+          "name": "Interest",
+          "__typename": "Category"
+        },
+        "merchant": {
+          "name": "merchant",
+          "id": "1234",
+          "transactionsCount": 1,
+          "__typename": "Merchant",
+          "plaidName": "sample plaid name"
+        },
+        "account": {
+          "id": "1234",
+          "displayName": "exampleAccount",
+          "__typename": "Account"
+        },
+        "tags": [],
+        "__typename": "Transaction"
+      }
+    ],
+    "__typename": "TransactionList"
+  },
+  "transactionRules": [
+    {
+      "id": "232525884613055012",
+      "__typename": "TransactionRuleV2"
+    },
+    {
+      "id": "233165071295042346",
+      "__typename": "TransactionRuleV2"
+    },
+    {
+      "id": "233165316850569216",
+      "__typename": "TransactionRuleV2"
+    },
+    {
+      "id": "233165407836557389",
+      "__typename": "TransactionRuleV2"
+    },
+    {
+      "id": "233167238222435233",
+      "__typename": "TransactionRuleV2"
+    },
+    {
+      "id": "233167339793797124",
+      "__typename": "TransactionRuleV2"
+    },
+    {
+      "id": "233167411739742286",
+      "__typename": "TransactionRuleV2"
+    }
+  ]
+}

@@ -1,0 +1,1364 @@
+{
+    "categories": [
+        {
+            "id": "232525884431651132",
+            "order": 0,
+            "name": "Charity",
+            "systemCategory": "charity",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:25:40.782169+00:00",
+            "createdAt": "2026-01-10T14:19:23.962883+00:00",
+            "group": {
+                "id": "232525884409630883",
+                "name": "Personal",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232704895463052044",
+            "order": 0,
+            "name": "Contributions",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:44:42.104009+00:00",
+            "createdAt": "2026-01-12T13:44:42.103943+00:00",
+            "group": {
+                "id": "232525884409630880",
+                "name": "Capital Expense",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232526880767595281",
+            "order": 0,
+            "name": "County Real Estate Tax",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:32:42.509188+00:00",
+            "createdAt": "2026-01-10T14:35:14.060732+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232526637308170767",
+            "order": 0,
+            "name": "Credit Card Rebate",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:03:29.025354+00:00",
+            "createdAt": "2026-01-10T14:31:21.879027+00:00",
+            "group": {
+                "id": "232525884409630879",
+                "name": "Income",
+                "type": "income",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651164",
+            "order": 0,
+            "name": "Doctor",
+            "systemCategory": "medical",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:07:24.115251+00:00",
+            "createdAt": "2026-01-10T14:19:23.963977+00:00",
+            "group": {
+                "id": "232525884409630889",
+                "name": "Health",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651136",
+            "order": 0,
+            "name": "Gas",
+            "systemCategory": "gas",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.963026+00:00",
+            "createdAt": "2026-01-10T14:19:23.963022+00:00",
+            "group": {
+                "id": "232525884409630881",
+                "name": "Car",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651133",
+            "order": 0,
+            "name": "Gifts",
+            "systemCategory": "gifts",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:25:53.295293+00:00",
+            "createdAt": "2026-01-10T14:19:23.962918+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651148",
+            "order": 0,
+            "name": "Groceries",
+            "systemCategory": "groceries",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.963445+00:00",
+            "createdAt": "2026-01-10T14:19:23.963440+00:00",
+            "group": {
+                "id": "232525884409630884",
+                "name": "Groceries",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651172",
+            "order": 0,
+            "name": "Taxes",
+            "systemCategory": "taxes",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.964247+00:00",
+            "createdAt": "2026-01-10T14:19:23.964243+00:00",
+            "group": {
+                "id": "232525884409630890",
+                "name": "Tax",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651185",
+            "order": 0,
+            "name": "Transfer",
+            "systemCategory": "transfer",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.964678+00:00",
+            "createdAt": "2026-01-10T14:19:23.964673+00:00",
+            "group": {
+                "id": "232525884409630893",
+                "name": "Transfers",
+                "type": "transfer",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232526955583492240",
+            "order": 0,
+            "name": "Tuition",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:04:53.221434+00:00",
+            "createdAt": "2026-01-10T14:36:25.410323+00:00",
+            "group": {
+                "id": "232525884409630888",
+                "name": "Education",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651173",
+            "order": 0,
+            "name": "Uncategorized",
+            "systemCategory": "uncategorized",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.964280+00:00",
+            "createdAt": "2026-01-10T14:19:23.964275+00:00",
+            "group": {
+                "id": "232525884409630891",
+                "name": "Other",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651186",
+            "order": 1,
+            "name": "Credit Card Payment",
+            "systemCategory": "credit_card_payment",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.964711+00:00",
+            "createdAt": "2026-01-10T14:19:23.964706+00:00",
+            "group": {
+                "id": "232525884409630893",
+                "name": "Transfers",
+                "type": "transfer",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651165",
+            "order": 1,
+            "name": "Dentist",
+            "systemCategory": "dentist",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.964015+00:00",
+            "createdAt": "2026-01-10T14:19:23.964010+00:00",
+            "group": {
+                "id": "232525884409630889",
+                "name": "Health",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232526648091726414",
+            "order": 1,
+            "name": "Dividends",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:03:19.798913+00:00",
+            "createdAt": "2026-01-10T14:31:32.163741+00:00",
+            "group": {
+                "id": "232525884409630879",
+                "name": "Income",
+                "type": "income",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232526830259786498",
+            "order": 1,
+            "name": "Federal Tax",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:16:27.927149+00:00",
+            "createdAt": "2026-01-10T14:34:25.893064+00:00",
+            "group": {
+                "id": "232525884409630890",
+                "name": "Tax",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651171",
+            "order": 1,
+            "name": "Insurance",
+            "systemCategory": "insurance",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:39:32.979980+00:00",
+            "createdAt": "2026-01-10T14:19:23.964210+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651137",
+            "order": 1,
+            "name": "Maintenance",
+            "systemCategory": "auto_maintenance",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:30:13.306429+00:00",
+            "createdAt": "2026-01-10T14:19:23.963057+00:00",
+            "group": {
+                "id": "232525884409630881",
+                "name": "Car",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651175",
+            "order": 1,
+            "name": "Miscellaneous",
+            "systemCategory": "miscellaneous",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:19:58.189152+00:00",
+            "createdAt": "2026-01-10T14:19:23.964342+00:00",
+            "group": {
+                "id": "232525884409630883",
+                "name": "Personal",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232702408781844748",
+            "order": 1,
+            "name": "Supplies",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:05:31.271072+00:00",
+            "createdAt": "2026-01-12T13:05:10.619890+00:00",
+            "group": {
+                "id": "232525884409630888",
+                "name": "Education",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651151",
+            "order": 1,
+            "name": "Travel",
+            "systemCategory": "travel_vacation",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:51:13.737304+00:00",
+            "createdAt": "2026-01-10T14:19:23.963543+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651187",
+            "order": 2,
+            "name": "Balance Adjustments",
+            "systemCategory": "balance_adjustments",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.964744+00:00",
+            "createdAt": "2026-01-10T14:19:23.964739+00:00",
+            "group": {
+                "id": "232525884409630893",
+                "name": "Transfers",
+                "type": "transfer",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651152",
+            "order": 2,
+            "name": "Ballet",
+            "systemCategory": "entertainment_recreation",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:51:46.789837+00:00",
+            "createdAt": "2026-01-10T14:19:23.963577+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651166",
+            "order": 2,
+            "name": "Fitness",
+            "systemCategory": "fitness",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.964048+00:00",
+            "createdAt": "2026-01-10T14:19:23.964044+00:00",
+            "group": {
+                "id": "232525884409630889",
+                "name": "Health",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651142",
+            "order": 2,
+            "name": "Home Improvement",
+            "systemCategory": "home_improvement",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.963236+00:00",
+            "createdAt": "2026-01-10T14:19:23.963232+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232533750517453030",
+            "order": 2,
+            "name": "Job Expense",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:19:39.311949+00:00",
+            "createdAt": "2026-01-10T16:24:25.563531+00:00",
+            "group": {
+                "id": "232525884409630883",
+                "name": "Personal",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651128",
+            "order": 2,
+            "name": "Paychecks",
+            "systemCategory": "paychecks",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:01:57.154833+00:00",
+            "createdAt": "2026-01-10T14:19:23.962689+00:00",
+            "group": {
+                "id": "232525884409630879",
+                "name": "Income",
+                "type": "income",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232526839785050883",
+            "order": 2,
+            "name": "Social Security",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:17:43.403054+00:00",
+            "createdAt": "2026-01-10T14:34:34.976724+00:00",
+            "group": {
+                "id": "232525884409630890",
+                "name": "Tax",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651138",
+            "order": 2,
+            "name": "Tolls",
+            "systemCategory": "parking_tolls",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:30:05.957045+00:00",
+            "createdAt": "2026-01-10T14:19:23.963092+00:00",
+            "group": {
+                "id": "232525884409630881",
+                "name": "Car",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232704121057170389",
+            "order": 3,
+            "name": "County Property Tax",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:32:31.750469+00:00",
+            "createdAt": "2026-01-12T13:32:23.569110+00:00",
+            "group": {
+                "id": "232525884409630881",
+                "name": "Car",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651149",
+            "order": 3,
+            "name": "Dining Out",
+            "systemCategory": "restaurants_bars",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:11:17.194345+00:00",
+            "createdAt": "2026-01-10T14:19:23.963475+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651169",
+            "order": 3,
+            "name": "Fees",
+            "systemCategory": "financial_fees",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:13:48.935488+00:00",
+            "createdAt": "2026-01-10T14:19:23.964143+00:00",
+            "group": {
+                "id": "232525884409630883",
+                "name": "Personal",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651129",
+            "order": 3,
+            "name": "Interest",
+            "systemCategory": "interest",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:02:14.030718+00:00",
+            "createdAt": "2026-01-10T14:19:23.962774+00:00",
+            "group": {
+                "id": "232525884409630879",
+                "name": "Income",
+                "type": "income",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "233164678831919484",
+            "order": 3,
+            "name": "[Liberty 457b]",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-17T15:32:45.693868+00:00",
+            "createdAt": "2026-01-17T15:32:45.693847+00:00",
+            "group": {
+                "id": "232525884409630893",
+                "name": "Transfers",
+                "type": "transfer",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232526847445947143",
+            "order": 3,
+            "name": "Medicare",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:17:53.841200+00:00",
+            "createdAt": "2026-01-10T14:34:42.283010+00:00",
+            "group": {
+                "id": "232525884409630890",
+                "name": "Tax",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651146",
+            "order": 3,
+            "name": "Net",
+            "systemCategory": "internet_cable",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:38:47.237810+00:00",
+            "createdAt": "2026-01-10T14:19:23.963370+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232702511799194060",
+            "order": 3,
+            "name": "Pharmacy",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:06:57.438264+00:00",
+            "createdAt": "2026-01-12T13:06:48.864796+00:00",
+            "group": {
+                "id": "232525884409630889",
+                "name": "Health",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232704559943898056",
+            "order": 4,
+            "name": "Insurance",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:39:22.127946+00:00",
+            "createdAt": "2026-01-12T13:39:22.127929+00:00",
+            "group": {
+                "id": "232525884409630881",
+                "name": "Car",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232702593352192533",
+            "order": 4,
+            "name": "Insurance",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:08:06.639569+00:00",
+            "createdAt": "2026-01-12T13:08:06.639548+00:00",
+            "group": {
+                "id": "232525884409630889",
+                "name": "Health",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "233164720573633022",
+            "order": 4,
+            "name": "[Liberty 403b]",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-17T15:33:25.502084+00:00",
+            "createdAt": "2026-01-17T15:33:25.502065+00:00",
+            "group": {
+                "id": "232525884409630893",
+                "name": "Transfers",
+                "type": "transfer",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651153",
+            "order": 4,
+            "name": "Personal",
+            "systemCategory": "personal",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.963615+00:00",
+            "createdAt": "2026-01-10T14:19:23.963611+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651145",
+            "order": 4,
+            "name": "Power",
+            "systemCategory": "gas_electric",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:38:38.908778+00:00",
+            "createdAt": "2026-01-10T14:19:23.963336+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232526855442387722",
+            "order": 4,
+            "name": "State",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:18:01.248211+00:00",
+            "createdAt": "2026-01-10T14:34:49.908673+00:00",
+            "group": {
+                "id": "232525884409630890",
+                "name": "Tax",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651168",
+            "order": 4,
+            "name": "Tools",
+            "systemCategory": "financial_legal_services",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:12:55.369803+00:00",
+            "createdAt": "2026-01-10T14:19:23.964110+00:00",
+            "group": {
+                "id": "232525884409630883",
+                "name": "Personal",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651157",
+            "order": 5,
+            "name": "Clothing",
+            "systemCategory": "clothing",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T16:30:47.597072+00:00",
+            "createdAt": "2026-01-10T14:19:23.963744+00:00",
+            "group": {
+                "id": "232525884409630883",
+                "name": "Personal",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "233164789622362949",
+            "order": 5,
+            "name": "[HealthEquity Jodi]",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-17T15:34:31.351386+00:00",
+            "createdAt": "2026-01-17T15:34:31.351367+00:00",
+            "group": {
+                "id": "232525884409630893",
+                "name": "Transfers",
+                "type": "transfer",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651154",
+            "order": 5,
+            "name": "Pets",
+            "systemCategory": "pets",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T14:19:23.963648+00:00",
+            "createdAt": "2026-01-10T14:19:23.963644+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "233166859647701902",
+            "order": 5,
+            "name": "Sales Tax",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-17T16:07:25.482086+00:00",
+            "createdAt": "2026-01-17T16:07:25.482069+00:00",
+            "group": {
+                "id": "232525884409630890",
+                "name": "Tax",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651144",
+            "order": 5,
+            "name": "Water",
+            "systemCategory": "water",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T16:29:41.751359+00:00",
+            "createdAt": "2026-01-10T14:19:23.963301+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "233165023367779023",
+            "order": 6,
+            "name": "[C360 Priya Checking]",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-17T15:38:14.266360+00:00",
+            "createdAt": "2026-01-17T15:38:14.266338+00:00",
+            "group": {
+                "id": "232525884409630893",
+                "name": "Transfers",
+                "type": "transfer",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651170",
+            "order": 6,
+            "name": "Cash",
+            "systemCategory": "cash_atm",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:09:23.495426+00:00",
+            "createdAt": "2026-01-10T14:19:23.964177+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651143",
+            "order": 6,
+            "name": "Garbage",
+            "systemCategory": "garbage",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-10T16:29:44.896347+00:00",
+            "createdAt": "2026-01-10T14:19:23.963266+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651147",
+            "order": 6,
+            "name": "Phones",
+            "systemCategory": "phone",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:47:26.339035+00:00",
+            "createdAt": "2026-01-10T14:19:23.963405+00:00",
+            "group": {
+                "id": "232525884409630883",
+                "name": "Personal",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232537442155090899",
+            "order": 7,
+            "name": "[C360 Checking]",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-17T15:45:05.498325+00:00",
+            "createdAt": "2026-01-10T17:23:06.184463+00:00",
+            "group": {
+                "id": "232525884409630893",
+                "name": "Transfers",
+                "type": "transfer",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651159",
+            "order": 7,
+            "name": "Computers",
+            "systemCategory": "electronics",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:47:23.670914+00:00",
+            "createdAt": "2026-01-10T14:19:23.963811+00:00",
+            "group": {
+                "id": "232525884409630883",
+                "name": "Personal",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651158",
+            "order": 7,
+            "name": "Furnishings",
+            "systemCategory": "furniture_housewares",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:39:48.486910+00:00",
+            "createdAt": "2026-01-10T14:19:23.963777+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232704608336728195",
+            "order": 7,
+            "name": "Garden",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:40:36.615876+00:00",
+            "createdAt": "2026-01-12T13:40:08.277963+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705273947607080",
+            "order": 8,
+            "name": "Booze",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:50:43.054519+00:00",
+            "createdAt": "2026-01-12T13:50:43.054497+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "233165251718271939",
+            "order": 8,
+            "name": "[Chase Jodi]",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-17T15:41:52.040969+00:00",
+            "createdAt": "2026-01-17T15:41:52.040952+00:00",
+            "group": {
+                "id": "232525884409630893",
+                "name": "Transfers",
+                "type": "transfer",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232704666156257482",
+            "order": 8,
+            "name": "Landscaping",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:41:03.420490+00:00",
+            "createdAt": "2026-01-12T13:41:03.420471+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705221460087722",
+            "order": 8,
+            "name": "Supplies",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:49:52.999606+00:00",
+            "createdAt": "2026-01-12T13:49:52.999588+00:00",
+            "group": {
+                "id": "232525884409630883",
+                "name": "Personal",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705238380958636",
+            "order": 9,
+            "name": "Personal Care",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:50:09.134698+00:00",
+            "createdAt": "2026-01-12T13:50:09.134677+00:00",
+            "group": {
+                "id": "232525884409630883",
+                "name": "Personal",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232525884431651141",
+            "order": 9,
+            "name": "Security",
+            "systemCategory": "rent",
+            "isSystemCategory": true,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:41:51.358933+00:00",
+            "createdAt": "2026-01-10T14:19:23.963197+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705354976317607",
+            "order": 9,
+            "name": "Theater",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:52:00.329119+00:00",
+            "createdAt": "2026-01-12T13:52:00.329099+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705373440692396",
+            "order": 10,
+            "name": "Other Admissions",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:52:17.939108+00:00",
+            "createdAt": "2026-01-12T13:52:17.939091+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232704686663258378",
+            "order": 10,
+            "name": "Tools",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:41:30.910837+00:00",
+            "createdAt": "2026-01-12T13:41:22.976502+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705396401361074",
+            "order": 11,
+            "name": "Backpacking",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:52:39.835594+00:00",
+            "createdAt": "2026-01-12T13:52:39.835561+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705101286986045",
+            "order": 11,
+            "name": "Improvement",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:48:50.608789+00:00",
+            "createdAt": "2026-01-12T13:47:58.392531+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705127604146556",
+            "order": 12,
+            "name": "Appliances",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:48:23.491618+00:00",
+            "createdAt": "2026-01-12T13:48:23.491600+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705410728055086",
+            "order": 12,
+            "name": "Church",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:52:53.498821+00:00",
+            "createdAt": "2026-01-12T13:52:53.498803+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705425474179498",
+            "order": 13,
+            "name": "Books",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:53:07.561691+00:00",
+            "createdAt": "2026-01-12T13:53:07.561672+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "233166453649559887",
+            "order": 13,
+            "name": "Supplies",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-17T16:00:58.291599+00:00",
+            "createdAt": "2026-01-17T16:00:58.291579+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "233166961586065691",
+            "order": 14,
+            "name": "Maintenance",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-17T16:09:02.697239+00:00",
+            "createdAt": "2026-01-17T16:09:02.697218+00:00",
+            "group": {
+                "id": "232525884409630882",
+                "name": "Home",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705441392611760",
+            "order": 14,
+            "name": "Pool",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:53:22.742274+00:00",
+            "createdAt": "2026-01-12T13:53:22.742256+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705453694505394",
+            "order": 15,
+            "name": "TV",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:53:34.474739+00:00",
+            "createdAt": "2026-01-12T13:53:34.474719+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705474478330535",
+            "order": 16,
+            "name": "Music",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:54:04.279592+00:00",
+            "createdAt": "2026-01-12T13:53:54.296382+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705503065658086",
+            "order": 17,
+            "name": "Games",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:54:21.557908+00:00",
+            "createdAt": "2026-01-12T13:54:21.557886+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705533484847911",
+            "order": 18,
+            "name": "News",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:54:50.568729+00:00",
+            "createdAt": "2026-01-12T13:54:50.568709+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "232705554535011114",
+            "order": 19,
+            "name": "Politics",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-12T13:55:10.643474+00:00",
+            "createdAt": "2026-01-12T13:55:10.643452+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        },
+        {
+            "id": "233167364904046758",
+            "order": 20,
+            "name": "Firewood",
+            "systemCategory": null,
+            "isSystemCategory": false,
+            "isDisabled": false,
+            "updatedAt": "2026-01-17T16:15:50.881808+00:00",
+            "createdAt": "2026-01-17T16:15:27.330766+00:00",
+            "group": {
+                "id": "232525884409630885",
+                "name": "Fun",
+                "type": "expense",
+                "__typename": "CategoryGroup"
+            },
+            "__typename": "Category"
+        }
+    ]
+}

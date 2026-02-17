@@ -1,0 +1,7 @@
+[project]
+name="monarch"
+
+[tool.pytest.ini_options]
+addopts = ["--import-mode=importlib"]
+#pythonpath = "."
+pythonpath = ["."]

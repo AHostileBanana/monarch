@@ -1,0 +1,90 @@
+{
+    "portfolio": {
+        "aggregateHoldings": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "773",
+                        "quantity": 1288.212,
+                        "basis": 2227.6,
+                        "totalValue": 4495.36235999997,
+                        "securityPriceChangeDollars": null,
+                        "securityPriceChangePercent": null,
+                        "lastSyncedAt": "2026-01-13",
+                        "holdings": [
+                            {
+                                "id": "21983",
+                                "type": "etf",
+                                "typeDisplay": "ETF",
+                                "name": " Group, Inc. -  Total Stock Market ETF",
+                                "ticker": "AAA",
+                                "closingPrice": 343.03,
+                                "isManual": false,
+                                "closingPriceUpdatedAt": "2026-01-12T00:00:00+00:00",
+                                "__typename": "Holding"
+                            }
+                        ],
+                        "security": {
+                            "id": "773590",
+                            "name": " Total Stock Market ETF",
+                            "type": "etf",
+                            "ticker": "AAA",
+                            "typeDisplay": "ETF",
+                            "currentPrice": 33.03,
+                            "currentPriceUpdatedAt": "2026-01-12T22:28:05.976776+00:00",
+                            "closingPrice": 25.95,
+                            "closingPriceUpdatedAt": "2023-12-07T07:00:00+00:00",
+                            "oneDayChangePercent": 0.0,
+                            "oneDayChangeDollars": 0.0,
+                            "__typename": "Security"
+                        },
+                        "__typename": "AggregateHolding"
+                    },
+                    "__typename": "AggregateHoldingEdge"
+                },
+                {
+                    "node": {
+                        "id": "773617456",
+                        "quantity": 249.745,
+                        "basis": 1355.01,
+                        "totalValue": 183.96975,
+                        "securityPriceChangeDollars": null,
+                        "securityPriceChangePercent": null,
+                        "lastSyncedAt": "2026-01-13",
+                        "holdings": [
+                            {
+                                "id": "2327459981",
+                                "type": "etf",
+                                "typeDisplay": "ETF",
+                                "name": " Group, Inc. -  Total International Stock ETF",
+                                "ticker": "BBB",
+                                "closingPrice": 8.55,
+                                "isManual": false,
+                                "closingPriceUpdatedAt": "2026-01-12T00:00:00+00:00",
+                                "__typename": "Holding"
+                            }
+                        ],
+                        "security": {
+                            "id": "77361746",
+                            "name": " Total Intl Stock Idx ETF",
+                            "type": "etf",
+                            "ticker": "BBB",
+                            "typeDisplay": "ETF",
+                            "currentPrice": 8.55,
+                            "currentPriceUpdatedAt": "2026-01-12T22:28:00.213245+00:00",
+                            "closingPrice": 6.5,
+                            "closingPriceUpdatedAt": "2023-12-07T07:00:00+00:00",
+                            "oneDayChangePercent": 0.0,
+                            "oneDayChangeDollars": 0.0,
+                            "__typename": "Security"
+                        },
+                        "__typename": "AggregateHolding"
+                    },
+                    "__typename": "AggregateHoldingEdge"
+                }
+            ],
+            "__typename": "AggregateHoldingConnection"
+        },
+        "__typename": "Portfolio"
+    }
+}

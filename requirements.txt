@@ -1,0 +1,16 @@
+
+# for json I/O
+marshmallow==4.2.0
+
+# for retries
+tenacity==9.1.2
+
+# have to build from source with a patched URL
+# monarchmoney==0.1.15
+# for monarchmoney
+aiohttp>=3.8.4
+gql>=4.0
+oathtool>=2.3.1
+setuptools >=58.1.0
+
+
